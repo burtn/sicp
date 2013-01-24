@@ -1,7 +1,7 @@
 sicp
 ====
 
-I have read that a good way to learn [LISP](http://en.wikipedia.org/wiki/Lisp_(programming_language)) is to work through [SICP](http://mitpress.mit.edu/sicp/) (I used the [Kindle version](http://www.learningclojure.com/2011/02/advice-to-newbie.html)). 
+I have read that a good way to learn [LISP](http://en.wikipedia.org/wiki/Lisp_%28programming_language%29) is to work through [SICP](http://mitpress.mit.edu/sicp/) (I used the [Kindle version](http://www.learningclojure.com/2011/02/advice-to-newbie.html)). 
 
 These are my solutions to the exercises in the book.
 
