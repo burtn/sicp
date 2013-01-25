@@ -1,0 +1,3 @@
+Following applicative order evaluation the procedure (p) enters an inifinite
+loop. (recursively calling itself). Following normal order evaluation the if
+clause will not run (p).
