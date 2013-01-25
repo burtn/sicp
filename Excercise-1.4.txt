@@ -1,0 +1,6 @@
+(define (a-plus-abs-b a b)
+  ((if (> b 0) + -) a b))
+  
+The procedure a-plus-abs-b takes two arguments and if b is greater than 0
+returns the result of adding the two together otherwise they are subtracted
+causing be to be double negated so they are added effectively making b into |b|.
